@@ -8,6 +8,7 @@
 - JS
 - Python 
 - 📫 How to reach me muhammadrameezy@gmail.com
+- INSTA : rameezio
 
 <!---
 Rameezio/Rameezio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
