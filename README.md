@@ -1,13 +1,12 @@
 - 👋 Hi, I’m Muhammad Rameez
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development,AI
 - 🌱 I’m currently learning nodejs
 - languages which i have learned is
 - C++
 - HTML
 - CSS
 - JS
-- Python
--     
+- Python 
 - 📫 How to reach me muhammadrameezy@gmail.com
 
 <!---
